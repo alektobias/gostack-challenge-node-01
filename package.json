@@ -10,11 +10,13 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "uuidv4": "^6.0.7"
+    "uuidv4": "^6.0.7",
+    "yup": "^0.28.3"
   },
   "devDependencies": {
     "jest": "^25.2.6",
     "nodemon": "^2.0.2",
+    "sucrase": "^3.13.0",
     "supertest": "^4.0.2"
   }
 }
